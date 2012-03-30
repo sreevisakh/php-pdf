@@ -1,0 +1,4 @@
+
+
+
+RewriteRule login/(.*) /$1.php [PT]

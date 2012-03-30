@@ -1,0 +1,3 @@
+RewriteRule ^$  [L]
+
+RewriteRule category(.*) /category.php?name=$1 [PT]
